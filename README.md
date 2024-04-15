@@ -4,7 +4,7 @@ A little about me:
 - 🍁 Ontario, Canada
 - 📔 I'm Student of Computer Programming in George Brown College
 - 👩🏾‍💻 I am currently studying C++ and Java, along with other languages such as C#.Net and Python
-- 📚 I’m passionate about books.
+- 📚 I’m passionate about books, exploring everything from fantasy adventures to contemporary romance. 
 <!--
 **geysianeL/geysianeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
